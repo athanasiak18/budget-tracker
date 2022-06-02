@@ -13,6 +13,4 @@ Made with HTML Javascript Node.js NPM packages Mongoose Express Morgan & Compres
 - in the command line enter `npm start` to view on local host
 
 ## Site
-
-
-deployment link
+link
