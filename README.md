@@ -1,7 +1,7 @@
 # Budget Tracker
 
 ## Description
-An application to keep to your budget. 
+This is an application to keep to your budget. 
 This application has the all the same functionality offline.
   
 ## Tech
