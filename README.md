@@ -5,7 +5,7 @@ This is an application to keep to your budget.
 This application has the all the same functionality offline.
   
 ## Tech
-Made with HTML Javascript Node.js NPM packages Mongoose Express Morgan & Compress
+Made with HTML Javascript Node.js NPM packages, Mongoose
 
 ## Installation 
 - Download the repository files
